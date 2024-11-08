@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Rabusseau 
+- prénom : Maéna 
+- URL Netlify : https://dainty-daffodil-19a736.netlify.app 
 
 # Travail
 
@@ -13,6 +13,7 @@ Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
 Faire dans la console les commandes suivantes :
 
 ![](/assets/img/changer-la-couleur-du-texte.png)
+
 
 ### Réagir à un click
 
